@@ -1,0 +1,52 @@
+    1  sudo apt update
+    2  sudo apt update nginx -y
+    3  sudo apt install nginx -y
+    4  4
+    5  ip a
+    6  network:
+    7  sudo apt install
+    8  ip a
+    9  sudo shutdown -h now
+   10  sudo nano /etc/netplan/00-installer-config.yaml
+   11  sudo mysql -u root -p
+   12  sudo apt update
+   13  sudo apt install mariadb-server -y
+   14  sudo nano /etc/netplan/00-installer-config.yaml
+   15  sudo systemctl status mariadb
+   16  sudo systemctl enable mariadb
+   17  sudo systemctl status mariadb
+   18  sudo systemctl start mariadb
+   19  sudo systemctl enable mariadb
+   20  sudo systemctl status mariadb
+   21  sudo mysql_secure_installation
+   22  sudo nano /etc/mysql/mariadb.conf.d/
+   23  sudo nano /etc/mysql/mariadb.conf.d/50-server.cnf
+   24  sudo systemctl restart mariadb
+   25  sudo mysql -u root -p
+   26  mysql -u root -p -e "SHOW VARIABLES LIKE 'log_bin';"
+   27  sudo mysql -u root -p
+   28  sudo nano /etc/mysql/mariadb.conf.d/50-server.cnf
+   29  sudo mysql -u root -p
+   30  sudo nano /etc/mysql/mariadb.conf.d/50-server.cnf
+   31  sudo systemctl restart
+   32  sudo systemctl restart mariadb
+   33  sudo systemctl status mariadb
+   34  sudo allow ufw 3306
+   35  sudo ufw  allow 3306
+   36  sudo nano /etc/netplan/00-installer-config.yaml
+   37  sudo
+   38  sudo netplan apply
+   39  sudo nano /etc/netplan/00-installer-config.yaml
+   40  sudo netplan apply
+   41  sudo nano /etc/netplan/00-installer-config.yaml
+   42  ip a
+   43  sudo nano /etc/mysql/mariadb.conf.d/50-server.cnf
+   44  sudo systemctl restart mariadb
+   45  sudo mysql -u root p
+   46  sudo mysql -u root -p
+   47  hystory
+   48  nano history
+   49  history
+   50  nano history
+   51*
+   52  history > comandos.txt
